@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hemc RL Team
 
 You can use the [editor on GitHub](https://github.com/hemc-rlteam/start/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
